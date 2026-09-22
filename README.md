@@ -2,7 +2,7 @@
 
 An unofficial expansion for Pokemon Pinball: Ruby & Sapphire.
 
-
+https://github.com/user-attachments/assets/ed658b6f-e601-40d6-bcb1-9289d28a8ca4
 
 1. Use your own clean **USA Pokemon Pinball: Ruby & Sapphire** `.gba` and confirm its SHA-256 below.
 2. Apply the BPS with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or Floating IPS, keeping checksum validation enabled.
