@@ -2,6 +2,10 @@
 
 An unofficial expansion for Pokemon Pinball: Ruby & Sapphire.
 
+Patch Download Link: https://github.com/pinballplease/pinball-dp/raw/refs/heads/main/Pokemon_Pinball_Diamond_Pearl.bps
+
+Reddit Discussion: https://www.reddit.com/r/PokemonROMhacks/comments/1wogpag/a_friend_just_released_pokemon_pinball_diamond/
+
 https://github.com/user-attachments/assets/ed658b6f-e601-40d6-bcb1-9289d28a8ca4
 
 1. Use your own clean **USA Pokemon Pinball: Ruby & Sapphire** `.gba` and confirm its SHA-256 below.
